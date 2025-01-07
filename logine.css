@@ -111,11 +111,11 @@ form .input-box span.details{
  form input[type="radio"]{
    display: none;
  }
- form .button{
+  .button{
    height: 45px;
    margin: 35px;
  }
- form .button input{
+  .button input{
    height: 100%;
    width: 100%;
    border-radius: 5px;
@@ -128,7 +128,7 @@ form .input-box span.details{
    transition: all 0.3s ease;
     background:  #138808;
  }
- form .button input:hover{
+  .button input:hover{
   /* transform: scale(0.99); */
     background:  #8cc751;
   }
